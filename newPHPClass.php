@@ -12,6 +12,9 @@
  */
 class newPHPClass {
 	//put your code here
+
+	
+	
 }
 
 ?>
